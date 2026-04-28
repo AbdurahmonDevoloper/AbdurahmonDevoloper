@@ -17,7 +17,7 @@
 ![Abdurahmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurahmonDevoloper&show_icons=true&theme=radical)
 
 ## 🔥 Eng ko‘p ishlatilgan tillar
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a_abduvohidovv&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurahmonDevoloper&layout=compact&theme=tokyonight)
 
 ---
 
