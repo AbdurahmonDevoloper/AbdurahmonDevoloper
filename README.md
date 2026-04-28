@@ -1,5 +1,7 @@
-# Salom, men Abdurahmon! 👋
-<img src=""Gemini_Generated_Image_yph0d0yph0d0yph0" src="https://github.com/user-attachments/assets/ec285107-6906-46f2-8637-6226cbb4fba3" />" width="200" align="right"
+# Salom, mening ismim Abdurahmon! 👋
+
+<img src="https://github.com/user-attachments/assets/55b122f1-6da8-4345-910e-ed85e9c53d6a" width="200" align="right">
+
 
 
 ### 👨‍💻 Men haqimda:
