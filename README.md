@@ -1,4 +1,4 @@
-# 👋 Salom, men ismim Abdurahmon 
+# 👋 Salom, mening ismim Abdurahmon 
 
 ## 🧑‍💻 Men haqimda
 - 🎯 Maqsadim: Kuchli Backend Developer bo‘lish
