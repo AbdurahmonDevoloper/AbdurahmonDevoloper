@@ -1,5 +1,5 @@
 # Salom, mening ismim Abdurahmon! 👋
-<img src="https://github.com/user-attachments/assets/f0da3de4-88cf-4c80-9ae8-0de61fcc3371" width="180" align="right">
+<img src="https://github.com/user-attachments/assets/f0da3de4-88cf-4c80-9ae8-0de61fcc3371" width="200" align="right">
 
 
 
